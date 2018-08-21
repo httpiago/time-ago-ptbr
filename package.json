@@ -1,5 +1,5 @@
 {
-  "name": "node-time-ago",
+  "name": "timeago",
   "version": "1.0.0",
   "description": "Simple time ago function for node that actually works!",
   "main": "index.js",
