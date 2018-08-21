@@ -6,18 +6,18 @@ const
 /***************************************************/
 
 var settings = {
-	now				: 	"just now",
-	seconds			: 	"%d second ago",
-	minute 			: 	"a minute ago",
-	minutes			: 	"%d minutes ago",
-	hour 			: 	"an hour ago",
-	hours			: 	"%d hours ago",
-	day 			: 	"a day ago",
-	days 			: 	"%d days ago",
-	month 			: 	"a month ago",
-	months 			: 	"%d months ago",
-	year 			: 	"a year ago",
-	years 			: 	"%d years ago"
+	now			: 	"Agora mesmo",
+	seconds			: 	"Há ± 1 minuto atrás",
+	minute 			: 	"Há ± 1 minuto atrás",
+	minutes			: 	"Há %d minutos atrás",
+	hour 			: 	"1 hora atrás",
+	hours			: 	"%d horas atrás",
+	day 			: 	"Há 1 dia atrás",
+	days 			: 	"%d dias atrás",
+	month 			: 	"1 mês atrás",
+	months 			: 	"%d meses atrás",
+	year 			: 	"1 ano atrás",
+	years 			: 	"%d anos atrás"
 };
 
 /***************************************************/
