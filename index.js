@@ -65,7 +65,7 @@ var inWords = function(inpDate){
 /***************************************************/
 
 
-var getAgoString = function(input){
+export default function getAgoString(input){
 	if(input instanceof Date){
 		return inWords(input);
 	}
@@ -79,7 +79,3 @@ var getAgoString = function(input){
 		return input; // could not convert
 	}
 };
-
-/***************************************************/
-
-module.exports = exports = getAgoString;
