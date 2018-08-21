@@ -65,7 +65,7 @@ var inWords = function(inpDate){
 /***************************************************/
 
 
-export default function getAgoString(input){
+export default function TimeAgo(input){
 	if(input instanceof Date){
 		return inWords(input);
 	}
